@@ -30,7 +30,7 @@ You can connect with me or reach me at **[muktarsys@gmail.com](mailto:muktarsys@
 
 ## 🚀 Current Projects
 
-* **[cloud-security-labs](https://github.com/mouktiar/cloud-security-labs)** – Hands-on labs for **Azure Security** (Defender for Cloud, Entra ID, Sentinel)
+* **[cloud-security-labs](https://github.com/moukhtiar/cloud-security-labs)** – Hands-on labs for **Azure Security** (Defender for Cloud, Entra ID, Sentinel)
 * Building **step-by-step Azure security SOPs** for real-world scenarios
 * Exploring **Infrastructure as Code** with **Bicep** and **Terraform**
 
