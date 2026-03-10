@@ -22,7 +22,7 @@ You can connect with me or reach me at **[muktarsys@gmail.com](mailto:muktarsys@
 
 * Microsoft Certified: **Azure Security Engineer Associate (AZ-500)**
 * Microsoft Certified: **Security Operations Analyst Associate (SC-200)**
-* Microsoft Certified: **Identity and Access Administrator Associate (SC-300) \~ WIP**
+* Microsoft Certified: **Identity and Access Administrator Associate (SC-300)**
 * Cisco Certified: **CCNA Security**, **Enterprise Core**
 * Huawei Certified: **ICT Professional**
 
