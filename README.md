@@ -1,9 +1,17 @@
-# Hello, folks! 
+## Hello, folks! 👋
 
-My name is **Muktar Mohamed** and I'm a **Cloud Security Engineer** with 7+ years of IT experience.  
-I specialize in **Microsoft Azure Security**, **Identity & Access Management**, and **Cloud Threat Protection**.
+I'm Muktar Mohamed, an Azure Cloud & Security Engineer based in the UAE with 7+ years of experience in networking, cloud infrastructure, and security operations.
 
-You can connect with me or reach me at **[muktarsys@gmail.com](mailto:muktarsys@gmail.com)**.
+I specialize in:
+
+- Azure Cloud Infrastructure (IaaS, Networking, Load Balancing)
+- Microsoft Security Stack (Defender XDR, Sentinel, Entra ID)
+- Identity & Access Management (RBAC, Conditional Access, PIM)
+- Infrastructure as Code (Terraform, Bicep)
+
+🔧 Currently building real-world Azure projects focused on high availability, security, and production-ready architectures.
+
+📩 Reach me at: muktarsys@gmail.com
 
 ---
 
@@ -20,7 +28,8 @@ You can connect with me or reach me at **[muktarsys@gmail.com](mailto:muktarsys@
 
 ## 🎓 Certifications
 
-* Microsoft Certified: **Azure Security Engineer Associate (AZ-500)**
+* Microsoft Certified: **Azure Administrator Associate (AZ-104)**
+* * Microsoft Certified: **Azure Security Engineer Associate (AZ-500)**
 * Microsoft Certified: **Security Operations Analyst Associate (SC-200)**
 * Microsoft Certified: **Identity and Access Administrator Associate (SC-300)**
 * Cisco Certified: **CCNA Security**, **Enterprise Core**
@@ -28,7 +37,7 @@ You can connect with me or reach me at **[muktarsys@gmail.com](mailto:muktarsys@
 
 ---
 
-## 🚀 Current Projects
+## Current Projects
 
 * **[cloud-security-labs](https://github.com/moukhtiar/cloud-security-labs)** – Hands-on labs for **Azure Security** (Defender for Cloud, Entra ID, Sentinel)
 * Building **step-by-step Azure security SOPs** for real-world scenarios
