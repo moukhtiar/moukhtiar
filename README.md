@@ -29,7 +29,7 @@ I specialize in:
 ## 🎓 Certifications
 
 * Microsoft Certified: **Azure Administrator Associate (AZ-104)**
-* * Microsoft Certified: **Azure Security Engineer Associate (AZ-500)**
+* Microsoft Certified: **Azure Security Engineer Associate (AZ-500)**
 * Microsoft Certified: **Security Operations Analyst Associate (SC-200)**
 * Microsoft Certified: **Identity and Access Administrator Associate (SC-300)**
 * Cisco Certified: **CCNA Security**, **Enterprise Core**
