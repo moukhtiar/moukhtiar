@@ -39,6 +39,19 @@ I specialize in:
 
 ## Current Projects
 
+## 🚀 Current Projects
+
+* **[Azure Load Balancer + NGINX (Terraform)](https://github.com/moukhtiar/azure-load-balance)**  
+  → Built production-grade high availability architecture with Azure Load Balancer, private backend VMs, health probes, and Terraform (IaC)
+
+* **[cloud-security-labs](https://github.com/moukhtiar/cloud-security-labs)**  
+  → Hands-on labs for Azure Security (Defender for Cloud, Entra ID, Sentinel)
+
+* Building step-by-step Azure security SOPs for real-world scenarios
+
+* Exploring Infrastructure as Code with Bicep and Terraform
+* 
+
 * **[cloud-security-labs](https://github.com/moukhtiar/cloud-security-labs)** – Hands-on labs for **Azure Security** (Defender for Cloud, Entra ID, Sentinel)
 * Building **step-by-step Azure security SOPs** for real-world scenarios
 * Exploring **Infrastructure as Code** with **Bicep** and **Terraform**
