@@ -39,8 +39,6 @@ I specialize in:
 
 ## Current Projects
 
-## Current Projects
-
 * **[Azure Load Balancer + NGINX (Terraform)](https://github.com/moukhtiar/azure-load-balance)**  
   → Built production-grade high availability architecture with Azure Load Balancer, private backend VMs, health probes, and Terraform (IaC)
 
