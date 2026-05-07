@@ -1,61 +1,81 @@
-## Hello, folks! 👋
+# Muktar Mohamed
 
-I'm Muktar Mohamed, an Azure Cloud & Security Engineer based in the UAE with 7+ years of experience in networking, cloud infrastructure, and security operations.
+Azure Cloud & Security Engineer based in the UAE with 7+ years of experience across networking, cloud infrastructure, and security operations.
 
-I specialize in:
+I work mainly with Microsoft Azure, focusing on building secure, scalable, and production-style cloud environments.
 
-- Azure Cloud Infrastructure (IaaS, Networking, Load Balancing)
-- Microsoft Security Stack (Defender XDR, Sentinel, Entra ID)
-- Identity & Access Management (RBAC, Conditional Access, PIM)
+## Areas I Focus On
+
+- Azure Infrastructure (IaaS, Networking, Load Balancing)
+- Cloud Security (Defender XDR, Microsoft Sentinel, Defender for Cloud)
+- Identity & Access Management (Entra ID, RBAC, Conditional Access, PIM)
 - Infrastructure as Code (Terraform, Bicep)
+- Monitoring & Troubleshooting
+- Hybrid Cloud & Identity
 
-🔧 Currently building real-world Azure projects focused on high availability, security, and production-ready architectures.
-
-📩 Reach me at: muktarsys@gmail.com
-
----
-
-## 🔧 Technologies & Tools
-
-![](https://img.shields.io/badge/Cloud-Microsoft_Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Security-Microsoft_Defender-informational?style=flat&logo=microsoft&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Monitoring-Microsoft_Sentinel-informational?style=flat&logo=microsoft&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/IaC-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Query-KQL-informational?style=flat&logo=microsoft&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Security-XDR-informational?style=flat&logo=microsoft&logoColor=white&color=2bbc8a)
+Currently building hands-on Azure projects around high availability, cloud security, monitoring, and infrastructure automation.
 
 ---
 
-## 🎓 Certifications
+## Technologies & Tools
 
-* Microsoft Certified: **Azure Administrator Associate (AZ-104)**
-* Microsoft Certified: **Azure Security Engineer Associate (AZ-500)**
-* Microsoft Certified: **Security Operations Analyst Associate (SC-200)**
-* Microsoft Certified: **Identity and Access Administrator Associate (SC-300)**
-* Cisco Certified: **CCNA Security**, **Enterprise Core**
-* Huawei Certified: **ICT Professional**
+![Azure](https://img.shields.io/badge/Cloud-Microsoft_Azure-blue)
+![Terraform](https://img.shields.io/badge/IaC-Terraform-623CE4)
+![Sentinel](https://img.shields.io/badge/SIEM-Microsoft_Sentinel-green)
+![Defender](https://img.shields.io/badge/Security-Defender_XDR-0f766e)
+![KQL](https://img.shields.io/badge/Query-KQL-2563eb)
+![Bicep](https://img.shields.io/badge/IaC-Bicep-1d4ed8)
+
+---
+
+## Certifications
+
+- Microsoft Certified: Azure Solutions Architect Expert (AZ-305)
+- Microsoft Certified: Azure Administrator Associate (AZ-104)
+- Microsoft Certified: Azure Security Engineer Associate (AZ-500)
+- Microsoft Certified: Security Operations Analyst Associate (SC-200)
+- Microsoft Certified: Identity and Access Administrator Associate (SC-300)
+- Cisco Certified: CCNA Security
+- Cisco Certified: Enterprise Core
+- Huawei Certified: ICT Professional
 
 ---
 
 ## Current Projects
 
-* **[Azure Load Balancer + NGINX (Terraform)](https://github.com/moukhtiar/azure-load-balance)**  
-  → Built production-grade high availability architecture with Azure Load Balancer, private backend VMs, health probes, and Terraform (IaC)
+### Azure Load Balancer + NGINX (Terraform)
+Production-style high availability setup using:
+- Azure Load Balancer
+- Private backend VMs
+- Health probes
+- Terraform deployment
 
-* **[cloud-security-labs](https://github.com/moukhtiar/cloud-security-labs)**  
-  → Hands-on labs for Azure Security (Defender for Cloud, Entra ID, Sentinel)
+### cloud-security-labs
+Hands-on Azure security labs covering:
+- Defender for Cloud
+- Microsoft Sentinel
+- Entra ID
+- Conditional Access
+- Monitoring & Incident Response
 
-* Building step-by-step Azure security SOPs for real-world scenarios
-
-* Exploring Infrastructure as Code with Bicep and Terraform
-  
-
+### Hybrid Identity Lab
+Building and troubleshooting hybrid identity environments with:
+- Entra Connect
+- On-prem Active Directory
+- MFA & Conditional Access
+- Identity synchronization
 
 ---
 
-## 📫 Let's Connect
+## Currently Exploring
 
-**Email:** [muktarsys@gmail.com](mailto:muktarsys@gmail.com)  
-**LinkedIn:** [linkedin](https://linkedin.com/in/muktar-mo)
+- Azure Landing Zones
+- Advanced Terraform
+- Serverless & Event-Driven Architectures
+- Azure Monitoring & Observability
+- Production-ready cloud security practices
 
 ---
+
+📫 Reach me at: muktarsys@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/mukhtar-mo
