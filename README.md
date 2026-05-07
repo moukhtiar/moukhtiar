@@ -35,7 +35,6 @@ Currently building hands-on Azure projects around high availability, cloud secur
 - Microsoft Certified: Azure Security Engineer Associate (AZ-500)
 - Microsoft Certified: Security Operations Analyst Associate (SC-200)
 - Microsoft Certified: Identity and Access Administrator Associate (SC-300)
-- Cisco Certified: CCNA Security
 - Cisco Certified: Enterprise Core
 - Huawei Certified: ICT Professional
 
