@@ -1,30 +1,29 @@
 # Muktar Mohamed
 
-Azure Cloud & Security Engineer based in the UAE with 7+ years of experience across networking, cloud infrastructure, and security operations.
+Azure Cloud & Security Engineer based in the UAE with experience across cloud infrastructure, networking, identity, and security operations.
 
-I work mainly with Microsoft Azure, focusing on building secure, scalable, and production-style cloud environments.
+Focused on building secure and production-style Azure environments using Infrastructure as Code, cloud security best practices, and Microsoft security solutions.
 
-## Areas I Focus On
-
-- Azure Infrastructure (IaaS, Networking, Load Balancing)
-- Cloud Security (Defender XDR, Microsoft Sentinel, Defender for Cloud)
-- Identity & Access Management (Entra ID, RBAC, Conditional Access, PIM)
-- Infrastructure as Code (Terraform, Bicep)
-- Monitoring & Troubleshooting
-- Hybrid Cloud & Identity
-
-Currently building hands-on Azure projects around high availability, cloud security, monitoring, and infrastructure automation.
+![Cloud](https://img.shields.io/badge/Cloud-Microsoft%20Azure-0078D4)
+![Security](https://img.shields.io/badge/Security-Defender%20XDR-008272)
+![SIEM](https://img.shields.io/badge/SIEM-Microsoft%20Sentinel-0F766E)
+![IaC](https://img.shields.io/badge/IaC-Terraform-7B42BC)
+![IaC](https://img.shields.io/badge/IaC-Bicep-1E5BD7)
+![Identity](https://img.shields.io/badge/Identity-Microsoft%20Entra%20ID-5E5ADB)
+![Query](https://img.shields.io/badge/Query-KQL-2563EB)
 
 ---
 
-## Technologies & Tools
+## Areas of Focus
 
-![Azure](https://img.shields.io/badge/Cloud-Microsoft_Azure-blue)
-![Terraform](https://img.shields.io/badge/IaC-Terraform-623CE4)
-![Sentinel](https://img.shields.io/badge/SIEM-Microsoft_Sentinel-green)
-![Defender](https://img.shields.io/badge/Security-Defender_XDR-0f766e)
-![KQL](https://img.shields.io/badge/Query-KQL-2563eb)
-![Bicep](https://img.shields.io/badge/IaC-Bicep-1d4ed8)
+- Azure Infrastructure & Networking
+- Cloud Security & Monitoring
+- Microsoft Defender & Sentinel
+- Identity & Access Management
+- Infrastructure as Code (Terraform & Bicep)
+- Hybrid Identity & Access Security
+- High Availability & Secure Architecture
+- Monitoring, Troubleshooting & Incident Response
 
 ---
 
@@ -40,29 +39,39 @@ Currently building hands-on Azure projects around high availability, cloud secur
 
 ---
 
-## Current Projects
+## Featured Projects
 
-### Azure Load Balancer + NGINX (Terraform)
-Production-style high availability setup using:
-- Azure Load Balancer
-- Private backend VMs
-- Health probes
-- Terraform deployment
+### Azure Secure Environment
+Secure Azure infrastructure project focused on:
+- Network segmentation
+- Azure Bastion access
+- NSG hardening
+- Microsoft Defender for Cloud
+- Infrastructure as Code with Bicep
 
-### cloud-security-labs
-Hands-on Azure security labs covering:
-- Defender for Cloud
-- Microsoft Sentinel
-- Entra ID
+### Microsoft Entra ID Identity Hardening
+Identity security project covering:
 - Conditional Access
-- Monitoring & Incident Response
+- MFA enforcement
+- Privileged Identity Management (PIM)
+- Risky sign-ins
+- Sign-in and audit monitoring
 
-### Hybrid Identity Lab
-Building and troubleshooting hybrid identity environments with:
-- Entra Connect
-- On-prem Active Directory
-- MFA & Conditional Access
+### Microsoft Entra Hybrid Identity
+Hybrid identity environment integrating:
+- Active Directory Domain Services (AD DS)
+- Microsoft Entra Connect Sync
+- OU filtering
 - Identity synchronization
+- Hybrid identity validation
+
+### Azure Load Balancer High Availability Environment
+Production-style Azure networking project using:
+- Azure Load Balancer
+- Private backend virtual machines
+- Health probes
+- NGINX
+- Terraform deployment
 
 ---
 
@@ -70,11 +79,13 @@ Building and troubleshooting hybrid identity environments with:
 
 - Azure Landing Zones
 - Advanced Terraform
-- Serverless & Event-Driven Architectures
 - Azure Monitoring & Observability
+- Serverless & Event-Driven Architectures
 - Production-ready cloud security practices
 
 ---
 
-📫 Reach me at: muktarsys@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/mukhtar-mo
+## Connect
+
+📫 Email: `muktarsys@gmail.com`  
+🔗 LinkedIn: `linkedin.com/in/mukhtar-mo`
